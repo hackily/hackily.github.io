@@ -1,7 +1,7 @@
 ---
 title: "Hello World!"
 date: 2017-02-28
-excerpt: "Or How I Learned to Stop Worrying and Love the Blog"
+excerpt: "Or How I Learned to Stop Worrying and Love the Engineering Blog"
 ---
 
 I was inspired to start my own blog after seeing this blog [post](https://insights.excitingrole.com/why-engineers-should-blog-88ecf97d2628#.2qqauqfjg) by Tim Moore: 
