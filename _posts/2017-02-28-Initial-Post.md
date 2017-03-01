@@ -1,6 +1,7 @@
 ---
 title: "Hello World!"
 date: 2017-02-28
+excerpt: "Test excerpt"
 ---
 
 I was inspired to start my own blog after seeing this blog post by Tim Moore: https://insights.excitingrole.com/why-engineers-should-blog-88ecf97d2628#.2qqauqfjg
