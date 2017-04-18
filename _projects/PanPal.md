@@ -14,18 +14,18 @@ sidebar:
 gallery:
   - url: /assets/images/panpal1.jpg
     image_path: assets/images/panpal1.jpg
-    alt: "placeholder image 1"
+    alt: "Main screen of PanPal"
   - url: /assets/images/panpal2.jpg
     image_path: assets/images/panpal2.jpg
-    alt: "placeholder image 2"
+    alt: "Pantry view"
   - url: /assets/images/panpal3-h.jpg
     image_path: assets/images/panpal3.jpg
-    alt: "placeholder image 3"
+    alt: "Barcode scanning"
 ---
 
 PanPal is an android application that aims to help you manage your pantry.
 
-The application uses the zxing library to scan barcodes, and a UPC API to identify the item, before storing your items on your device's local memory.+
+The application uses the zxing library to scan barcodes, and a UPC API to identify the item, before storing your items on your device's local memory.
 
 {% include gallery caption="Images of the application in use" %}
 
