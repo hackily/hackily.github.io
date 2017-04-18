@@ -2,8 +2,8 @@
 title: "Speedlimiter"
 excerpt: "Drive safely and responsibly with help from your Pebble smartwatch"
 header:
-  image: /assets/images/speedlimiter-app.png
-  teaser: /assets/images/speedlimiter-app.png
+  image: /assets/images/speedlimiter-image.jpg
+  teaser: /assets/images/speedlimiter-image.jpg
 sidebar:
   - title: ""
     image: /assets/images/speedlimiter-loading.png
