@@ -8,7 +8,9 @@
 
   {% if author.avatar %}
     <div class="author__avatar">
-      {% if author.avatar contains "://" %}
+      {% if author.avatarLink %}
+        <a href="{{ author.avatarLink }}"><img src="{{ author.avatar | absolute_url }}" class="author__avatar" alt="{{ author.name }}" itemprop="image"></a>
+      {% elsif author.avatar contains "://" %}
         <img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image">
       {% else %}
         <img src="{{ author.avatar | absolute_url }}" class="author__avatar" alt="{{ author.name }}" itemprop="image">

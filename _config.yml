@@ -80,6 +80,7 @@ analytics:
 author:
   name             : "Neil Wang"
   avatar           : "/assets/images/biopic.jpg"
+  avatarLink       : "/about"
   bio              : "The Uncanny Hacker"
   location         : "Virginia"
   email            : "neil.wang@alumni.unc.edu"
@@ -98,7 +99,7 @@ author:
   linkedin         : "neil-wang-15701868"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "4512090/unkani"
+  stackoverflow    : "4512090/hackily"
   steam            :
   tumblr           :
   twitter          :
