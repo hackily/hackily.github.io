@@ -1,10 +1,29 @@
 ---
 layout: archive
-title: "Projects"
+title: "Personal Projects"
 permalink: /projects/
 author_profile: true
 ---
 
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href='https://hackily.github.io/common-web-codec/app/index.html'>Common Web Codec</a>
+    </h2>
+    <p class="archive__item-excerpt" itemprop="description">
+      The common codec for the web. Encodes and decodes some of the web’s most commonly used formats.
+    </p>
+  </article>
+</div>
+
 {% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <h3 class="archive__item-title" itemprop="headline">
+      <a href='https://www.github.com/hackily'>Find more projects on Github!</a>
+    </h3>
+  </article>
+</div>
