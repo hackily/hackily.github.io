@@ -17,7 +17,7 @@ The motif that caught my eye in 'Hackily' was the 'ily' part, and I found it fit
 I immediately started conjuring mental images of what I wanted. Maybe the 'y' could wrap around the "ily' part and create a heart?
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hackilyIdeas.png" alt="Rapid prototyping the Hackily logo">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hackilyLogo/hackilyIdeas.png" alt="Rapid prototyping the Hackily logo">
   <figcaption>Rapid prototyping the Hackily logo</figcaption>
 </figure> 
 
@@ -26,15 +26,15 @@ It's a start! The important thing is to throw a lot of ideas on paper, and then 
 What struck me was that a heart composed of a square and two semi-circles looks pretty similar to elements in what we traditionally recognize as the cloud icon.
 
 <figure class="half">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cloud.png" alt="The traditional cloud icon">
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/hackilyCloud.png" alt="The Hackily cloud icon">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hackilyLogo/cloud.png" alt="The traditional cloud icon">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/hackilyLogo/hackilyCloud.png" alt="The Hackily cloud icon">
   <figcaption>The traditional cloud icon vs the Hackily cloud icon</figcaption>
 </figure> 
 
 After deciding on the cloud design, the next step was identifying how to incorporate the text into the image, and to pick a color scheme. I tried my hand at a couple, and gathered some feedback.
 
 <figure class="align-center" style="width:300px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/coloredClouds.png" alt="Rapid prototyping the Hackily logo">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hackilyLogo/coloredClouds.png" alt="Rapid prototyping the Hackily logo">
   <figcaption>Which one do you think looks the best?</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ These are questions that are difficult to answer, even if someone has a good des
 Ultimately, I settled upon this logo.
 
 <figure class="align-center" style="width:150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hackilyLogo.png" alt="The final Hackily Logo">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hackilyLogo/hackilyLogo.png" alt="The final Hackily Logo">
 </figure>
 
 The little heart softens the edge where the two heart-components join, and evokes a subtle imagery that reminds the user that the cloud is composed of two hearts, without being blindingly obvious.

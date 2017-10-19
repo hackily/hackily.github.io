@@ -15,15 +15,15 @@ As a Biomedical Engineering graduate, I'm no stranger to working with circuits, 
 The TV would periodically screech - about once every two seconds. To my ears, it sounded like there was a problem in the power supply.
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tv-floor.jpg" alt="Back cover removed from the TV">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/televisionRepair/tv-floor.jpg" alt="Back cover removed from the TV">
   <figcaption>Back cover removed from the TV</figcaption>
 </figure> 
 
 I take the back cover off the TV, and peer into where the logic and power supply boards sit.
 
 <figure class="half">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tv-psu-board.jpg" alt="The power supply board">
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/tv-controller-board.jpg" alt="The logic board">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/televisionRepair/tv-psu-board.jpg" alt="The power supply board">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/televisionRepair/tv-controller-board.jpg" alt="The logic board">
   <figcaption>The boards in question</figcaption>
 </figure> 
 
@@ -52,7 +52,7 @@ I looked for any connections to ground, and looked at components connected near 
 I was eventually able to trace the problem to one surface mounted capacitor, part of a signal filtering circuit, which had shorted.
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tv-smt-capacitor.jpg" alt="The shorted SMT capacitor">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/televisionRepair/tv-smt-capacitor.jpg" alt="The shorted SMT capacitor">
   <figcaption>The issue was this problem child of a capacitor</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ I was able to acquire a replacement capacitor, 50 nanofarads. It was too small t
 After placing the newly fixed logic board and the PSU back into the TV and hooking everything up...
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tv-working.jpg" alt="The tv is fixed!">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/televisionRepair/tv-working.jpg" alt="The tv is fixed!">
   <figcaption>Guess who's got a brand new tv?</figcaption>
 </figure>
 
